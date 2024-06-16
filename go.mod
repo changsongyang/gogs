@@ -53,7 +53,7 @@ require (
 	gorm.io/driver/mysql v1.5.2
 	gorm.io/driver/postgres v1.5.7
 	gorm.io/driver/sqlite v1.4.2
-	gorm.io/driver/sqlserver v1.4.1
+	gorm.io/driver/sqlserver v1.5.3
 	gorm.io/gorm v1.25.7-0.20240204074919-46816ad31dde
 	modernc.org/sqlite v1.29.2
 	unknwon.dev/clog/v2 v2.2.0
@@ -104,7 +104,7 @@ require (
 	github.com/mattn/go-runewidth v0.0.14 // indirect
 	github.com/mattn/go-sqlite3 v2.0.3+incompatible // indirect
 	github.com/mcuadros/go-version v0.0.0-20190830083331-035f6764e8d2 // indirect
-	github.com/microsoft/go-mssqldb v0.17.0 // indirect
+	github.com/microsoft/go-mssqldb v1.6.0 // indirect
 	github.com/modern-go/concurrent v0.0.0-20180306012644-bacd9c7ef1dd // indirect
 	github.com/modern-go/reflect2 v1.0.2 // indirect
 	github.com/ncruces/go-strftime v0.1.9 // indirect
